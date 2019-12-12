@@ -33,3 +33,5 @@ Nonstationary signal processing for mechanical fault diagnosis, literature, scho
 - Hilbert–Huang transform
 - Local mean decomposition
 - Energy separation algorithm
+###  Parameterised time-frequency analysis
+- Yang, Y., et al., Parameterised time-frequency analysis methods and their engineering applications: A review of recent advances. Mechanical Systems and Signal Processing, 2019. 119: p. 182-221.[link](https://www.sciencedirect.com/science/article/pii/S088832701830445X)
