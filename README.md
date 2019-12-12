@@ -1,11 +1,13 @@
 # Non-stationary_signal_processing
 Nonstationary signal processing for mechanical fault diagnosis, literature, scholars
 
-## Time domain analysis
-- Vold-Kalman flitering
-## Frequency domain analysis
+## 1.review papers
 
-## Time-frequency analysis 
+## 2.Time domain analysis
+- Vold-Kalman flitering
+## 3.Frequency domain analysis
+
+## 4.Time-frequency analysis 
 ### Linear time–frequency representation
 - Short time Fourier transform
 - Wavelet transform
