@@ -10,7 +10,7 @@ Nonstationary signal processing for mechanical fault diagnosis, literature, scho
 ## 4.Time-frequency analysis 
 ### Linear time–frequency representation
 - Short time Fourier transform
-- Wavelet transform
+- [Wavelet transform](./doc/wavelet.md)
 ### Bilinear time–frequency distribution
 - Wigner–Ville distribution
 - Cohen class distributions
