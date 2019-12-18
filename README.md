@@ -8,6 +8,7 @@ Nonstationary signal processing for mechanical fault diagnosis, literature, scho
 - Uma Maheswari, R. and R. Umamaheswari, Trends in non-stationary signal processing techniques applied to vibration analysis of wind turbine drive train – A contemporary survey. Mechanical Systems and Signal Processing, 2017. 85: p. 296-311. [link](https://doi.org/10.1016/j.ymssp.2016.07.046)
 - Qiao, W. and D. Lu, A Survey on Wind Turbine Condition Monitoring and Fault Diagnosis—Part II: Signals and Signal Processing Methods. IEEE Transactions on Industrial Electronics, 2015. 62(10): p. 6546-6557. [link](10.1109/TIE.2015.2422394)
 - Rai, A. and S.H. Upadhyay, A review on signal processing techniques utilized in the fault diagnosis of rolling element bearings. Tribology International, 2016. 96: p. 289-306. [link](https://doi.org/10.1016/j.triboint.2015.12.037)
+- Feng, Z., M. Liang and F. Chu, Recent advances in time–frequency analysis methods for machinery fault diagnosis: A review with application examples. Mechanical Systems and Signal Processing, 2013. 38(1): p. 165-205. [link](https://doi.org/10.1016/j.ymssp.2013.01.017)
 
 
 ## 2.Time domain analysis
