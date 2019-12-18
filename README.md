@@ -3,6 +3,8 @@ Nonstationary signal processing for mechanical fault diagnosis, literature, scho
 
 ## 1.review papers
 - Feng, Z., D. Zhang and M.J. Zuo, Adaptive Mode Decomposition Methods and Their Applications in Signal Analysis for Machinery Fault Diagnosis: A Review With Examples. IEEE Access, 2017. 5: p. 24301-24331 [link](https://ieeexplore.ieee.org/document/8082757) 
+- Yang, Y., et al., Parameterised time-frequency analysis methods and their engineering applications: A review of recent advances. Mechanical Systems and Signal Processing, 2019. 119: p. 182-221 [link](https://doi.org/10.1016/j.ymssp.2018.07.039)
+.
 .
 ## 2.Time domain analysis
 - Vold-Kalman flitering
